@@ -2,7 +2,17 @@
 
 ## Student Information
 
-* Registration Number: IT23674394
+* Registration Number: IT23674394 Dinuja A.A.K
+
+---
+
+## How to Run the Script
+
+Run the following command from the project directory:
+
+python test_automation.py --excel "C:\Users\HP\Desktop\IT23674394\IT23674394.xlsx" --url "https://www.pixelssuite.com/chat-translator" --wait-ms 5000 --type-delay-ms 80 --slow-mo-ms 200 --save-every 1 --keep-open
+
+---
 
 ---
 
